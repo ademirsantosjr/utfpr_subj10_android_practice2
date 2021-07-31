@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Options Selector</string>
+    <string name="student">Student</string>
+    <string name="monitor">Monitor</string>
+    <string name="teacher">Teacher</string>
+    <string name="show_selected">Show Selected</string>
 </resources>

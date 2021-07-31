@@ -44,4 +44,10 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
     }
+
+    public void uncheckAll(View view) {
+        cbStudent.setChecked(false);
+        cbMonitor.setChecked(false);
+        cbTeacher.setChecked(false);
+    }
 }

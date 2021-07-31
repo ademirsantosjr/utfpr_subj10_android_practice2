@@ -4,4 +4,6 @@
     <string name="monitor">Monitor</string>
     <string name="teacher">Teacher</string>
     <string name="show_selected">Show Selected</string>
+    <string name="no_option_was_selected">No option was selected</string>
+    <string name="selected_boxes">Selected boxes:</string>
 </resources>
